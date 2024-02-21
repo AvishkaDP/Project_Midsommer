@@ -22,7 +22,7 @@ Although there are other mitigation strategies like frame-busting JavaScript, X-
 
 ## Affected Target
 
--    I found this vulnerability at -  [http://52.66.188.78:31337/](http://52.66.188.78:31337/)
+- http://52.66.188.78:31337/
 
 
 ## Proof Of Concept
