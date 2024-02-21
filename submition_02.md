@@ -21,7 +21,7 @@ The web application currently operates over unencrypted HTTP protocol, leaving i
 
 ## Proof Of Concept
 
-This web page uses HTTP for client-server communication. Therefor website is vulnerable for MITM attack.
+This web page uses HTTP for client-server communication.
 
 ### step 01
 
