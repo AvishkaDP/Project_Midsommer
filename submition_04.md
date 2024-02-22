@@ -54,7 +54,7 @@ The installation of PHP on the remote host is flagged as unsupported due to its 
     
 7.  **Vendor Support**: Maintain communication with the PHP vendor or community to stay informed about the latest security advisories, patches, and updates. Subscribe to security mailing lists or forums to receive notifications about emerging threats and vulnerabilities.
     
-8.  **Risk Assessment**: Conduct a risk assessment to evaluate the potential impact of running unsupported PHP versions on the organization's operations and security posture. Use this information to prioritize remediation efforts and allocate resources effectively..
+8.  **Risk Assessment**: Conduct a risk assessment to evaluate the potential impact of running unsupported PHP versions on the organization's operations and security posture. Use this information to prioritize remediation efforts and allocate resources effectively.
 
 
 
