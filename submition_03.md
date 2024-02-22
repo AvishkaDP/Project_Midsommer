@@ -1,4 +1,4 @@
-﻿# #### Web Application Cookies Not Marked HttpOnly
+﻿# Web Application Cookies Not Marked HttpOnly
 
 ### Severity: High
 
